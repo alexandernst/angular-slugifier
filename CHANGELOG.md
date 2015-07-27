@@ -1,3 +1,6 @@
+### v0.0.4
+- Fix malformed bower.json
+
 ### v0.0.3
 - Cleanup.
 
