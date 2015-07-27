@@ -1,12 +1,12 @@
 {
-  "name": "slugify",
+  "name": "angular-slugifier",
   "version": "0.0.1",
-  "homepage": "https://github.com/alexandernst/slugify",
+  "homepage": "https://github.com/alexandernst/angular-slugifier",
   "authors": [
     "Alexander Nestorov <alexandernst@gmail.com>"
   ],
   "description": "AngularJS bindings for the wonderful speakingurl library",
-  "main": "slugify.js",
+  "main": "angular-slugifier.js",
   "keywords": [
     "angular",
     "slug",

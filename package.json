@@ -1,13 +1,13 @@
 {
-	"name": "slugify",
+	"name": "angular-slugifier",
 	"version": "0.0.1",
 	"description": "AngularJS bindings for the wonderful speakingurl library",
 	"main": [
-		"slugify.js"
+		"angular-slugifier.js"
 	],
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:alexandernst/slugify.git"
+		"url": "git@github.com:alexandernst/angular-slugifier.git"
 	},
 	"dependencies": {
 		"angular": "1.3.15"
@@ -28,7 +28,7 @@
 	"author": "Alexander Nestorov <alexandernst@gmail.com> (https://github.com/alexandernst)",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/alexandernst/slugify/issues"
+		"url": "https://github.com/alexandernst/angular-slugifier/issues"
 	},
-	"homepage": "https://github.com/alexandernst/slugify"
+	"homepage": "https://github.com/alexandernst/angular-slugifier"
 }

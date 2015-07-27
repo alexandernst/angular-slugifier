@@ -1,4 +1,4 @@
-var slugify = angular.module('slugify', []);
+var slugify = angular.module('angular-slugifier', []);
 
 slugify.provider('$speakingurl', function() {
     this.$get = ['$window', function($window) {

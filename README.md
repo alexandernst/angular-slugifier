@@ -1,23 +1,23 @@
-# slugify
+# angular-slugifier
 
 AngularJS bindings for the wonderful [SpeakingURL](https://github.com/pid/speakingurl) library
 
 ## How do I add this to my project?
 
-You can download `slugify` by:
+You can download `angular-slugifier` by:
 
-* Using bower and running `bower install slugify`
-* Using npm and running `npm install slugify`
+* Using bower and running `bower install angular-slugifier`
+* Using npm and running `npm install angular-slugifier`
 * Downloading it manually from this repo
 
-## How to use slugify
+## How to use angular-slugifier
 
 This module exposes a `$speakingurl` service that can be used in the code,
-and a `slugify` filter that can be used in templates directly:
+and a `angular-slugifier` filter that can be used in templates directly:
 
 ```
 MyAngularModule = (function () {
-  var myModule = angular.module('my.module', ['slugify']);
+  var myModule = angular.module('my.module', ['angular-slugifier']);
 
   myModule.controller('MyController', function ($scope, $speakingurl, model) {
     $scope.model   = model;
