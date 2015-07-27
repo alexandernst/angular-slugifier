@@ -1,0 +1,21 @@
+{
+  "name": "slugify",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alexandernst/slugify",
+  "authors": [
+    "Alexander Nestorov <alexandernst@gmail.com>"
+  ],
+  "description": "AngularJS bindings for the wonderful speakingurl library",
+  "main": "slugify.js",
+  "keywords": [
+    "angular",
+    "slug",
+    "speakingurl",
+    "url"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+  ]
+}
