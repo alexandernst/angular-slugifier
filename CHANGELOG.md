@@ -1,3 +1,6 @@
+### v0.0.3
+- Cleanup.
+
 ### v0.0.2
 - Rename repo.
 
