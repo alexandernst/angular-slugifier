@@ -1,6 +1,6 @@
 {
 	"name": "angular-slugifier",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"description": "AngularJS bindings for the wonderful speakingurl library",
 	"main": "angular-slugifier.js",
 	"repository": {

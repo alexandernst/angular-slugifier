@@ -1,3 +1,6 @@
+### v0.0.6
+- "Main" in package.json can't be an array
+
 ### v0.0.5
 - Relax package.json semver requires
 
