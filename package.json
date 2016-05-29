@@ -2,9 +2,7 @@
 	"name": "angular-slugifier",
 	"version": "0.0.5",
 	"description": "AngularJS bindings for the wonderful speakingurl library",
-	"main": [
-		"angular-slugifier.js"
-	],
+	"main": "angular-slugifier.js",
 	"repository": {
 		"type": "git",
 		"url": "git@github.com:alexandernst/angular-slugifier.git"
