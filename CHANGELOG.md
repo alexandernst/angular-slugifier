@@ -1,3 +1,6 @@
+### v0.0.5
+- Relax package.json semver requires
+
 ### v0.0.4
 - Fix malformed bower.json
 
